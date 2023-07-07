@@ -1,0 +1,15 @@
+C:\C# Masterclass course\Try and Catch\bin\Debug\net6.0\Try and Catch.exe
+C:\C# Masterclass course\Try and Catch\bin\Debug\net6.0\Try and Catch.deps.json
+C:\C# Masterclass course\Try and Catch\bin\Debug\net6.0\Try and Catch.runtimeconfig.json
+C:\C# Masterclass course\Try and Catch\bin\Debug\net6.0\Try and Catch.dll
+C:\C# Masterclass course\Try and Catch\bin\Debug\net6.0\Try and Catch.pdb
+C:\C# Masterclass course\Try and Catch\obj\Debug\net6.0\Try and Catch.csproj.AssemblyReference.cache
+C:\C# Masterclass course\Try and Catch\obj\Debug\net6.0\Try and Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Masterclass course\Try and Catch\obj\Debug\net6.0\Try and Catch.AssemblyInfoInputs.cache
+C:\C# Masterclass course\Try and Catch\obj\Debug\net6.0\Try and Catch.AssemblyInfo.cs
+C:\C# Masterclass course\Try and Catch\obj\Debug\net6.0\Try and Catch.csproj.CoreCompileInputs.cache
+C:\C# Masterclass course\Try and Catch\obj\Debug\net6.0\Try and Catch.dll
+C:\C# Masterclass course\Try and Catch\obj\Debug\net6.0\refint\Try and Catch.dll
+C:\C# Masterclass course\Try and Catch\obj\Debug\net6.0\Try and Catch.pdb
+C:\C# Masterclass course\Try and Catch\obj\Debug\net6.0\Try and Catch.genruntimeconfig.cache
+C:\C# Masterclass course\Try and Catch\obj\Debug\net6.0\ref\Try and Catch.dll
